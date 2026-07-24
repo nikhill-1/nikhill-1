@@ -1,18 +1,107 @@
-# 💫 About Me:
-I am currently working on improving my software development skills by building practical projects and strengthening my knowledge of data structures and programming. I am also developing applications using technologies such as Python, C++, and web development tools.<br><br>I am looking to collaborate on beginner to intermediate level software projects, especially projects related to web applications, artificial intelligence, and useful real world tools. Working with other developers helps me learn new ideas and improve my coding practices.<br><br>I am looking for help with advanced computer science concepts, improving my system design understanding, and learning how real software systems are built and deployed.<br><br>I am currently learning more about data structures and algorithms, backend development using Python and Flask, and exploring artificial intelligence concepts to understand how intelligent systems work.<br><br>Ask me about programming, problem solving, data structures, and building small software projects. I enjoy discussing technology and learning from other developers.<br><br>Fun fact I enjoy solving programming problems and continuously challenging myself to improve my logical thinking and coding skills.
+# Hi 👋, I'm Sai Nikhil Katkam
 
+### 💻 Software Engineering Student | Full Stack Developer | Backend & AI Enthusiast
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/nikkkhil) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikkkhil__07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-nikhil-katkam-08255b316) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:katkamsainikhil279@gmail.com) 
+I am a Computer Science student passionate about building scalable software, solving real-world problems, and continuously improving my software engineering skills.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nikhill-1&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nikhill-1&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhill-1&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Currently, I am focusing on **Data Structures & Algorithms**, **Backend Development**, **MERN Stack**, **System Design**, and **Artificial Intelligence** by building practical projects and exploring modern software architectures.
+
+I enjoy learning new technologies, contributing to meaningful projects, and understanding how production-grade software systems are designed and deployed.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nikhill-1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+* 🔭 Currently working on Full Stack and Backend projects
+* 🌱 Learning **MERN Stack, System Design, Authentication Systems, AI & Machine Learning**
+* 👯 Looking to collaborate on **Open Source**, **Web Applications**, and **AI Projects**
+* 💬 Ask me about **C++, Python, Java, JavaScript, React, Node.js, Flask, REST APIs, SQL, DSA**
+* 📚 Currently improving **Problem Solving**, **Backend Development**, and **Software Architecture**
+* ⚡ Fun fact: I enjoy solving programming challenges and continuously pushing myself to become a better software engineer.
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/sai-nikhil-katkam-08255b316)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/nikkkhil__07)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge\&logo=bluesky\&logoColor=white)](https://bsky.app/profile/nikkkhil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:katkamsainikhil279@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+### 👨‍💻 Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+
+### 🎨 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+
+### 🤖 AI / Data Science
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge\&logo=Matplotlib\&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+---
+
+# 📈 GitHub Activity
+
+![](https://github-readme-stats.vercel.app/api?username=nikhill-1\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=nikhill-1\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhill-1\&theme=tokyonight\&hide_border=true\&layout=compact)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=nikhill-1\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=8)
+
+---
+
+# 📊 Contribution Graph
+
+[![Sai Nikhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikhill-1\&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 📈 Profile Views
+
+![](https://komarev.com/ghpvc/?username=nikhill-1\&label=Profile%20Views\&color=0e75b6\&style=flat)
+
+---
+
+## ✨ Quote
+
+> **"First, solve the problem. Then, write the code." — John Johnson**
